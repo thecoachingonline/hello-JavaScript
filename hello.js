@@ -1,1 +1,1 @@
-console.log("สวัสดีชาวโลก");
+console.log("Hello, world!");
